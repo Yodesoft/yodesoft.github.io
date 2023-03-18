@@ -1,0 +1,12 @@
+  [{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yodesoft.android.hanzi_handwriting",
+      "sha256_cert_fingerprints":
+      [
+		  "48:96:BB:BF:12:A4:30:25:55:F0:DD:9A:DD:17:44:45:75:9E:50:30:9D:B4:8A:41:AF:40:BD:C1:57:40:EA:65",
+		  "FD:B3:3D:7B:33:DF:14:F9:92:F2:41:83:4A:AB:96:65:5C:62:62:C5:66:35:C7:EE:2E:F9:CB:27:EE:9B:A7:E3"
+	  ]
+    }
+  }]
